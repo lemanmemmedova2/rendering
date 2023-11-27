@@ -1,0 +1,25 @@
+.main{
+    margin-top: 260px;
+    margin-left: 600px;
+}
+button{
+    height: 50px;
+    width: 100px;
+
+}
+.text1{
+    background-color: white;
+}
+.text3{
+    background-color: white;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.last{
+   color: red;
+}
+#three{
+    display: none;
+}
